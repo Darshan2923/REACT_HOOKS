@@ -7,6 +7,7 @@ import ReducerTutorial from './components/ReducerTutorial';
 import EffectTutorial from './components/EffectTutorial';
 import RefTutorial from './components/RefTutorial';
 import LayoutEffectTutorial from './components/LayoutEffectTutorial';
+import ImperativeHandle from './components/ImperativeHandle';
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
       {/* <ReducerTutorial /> */}
       {/* <EffectTutorial /> */}
       {/* <RefTutorial /> */}
-      <LayoutEffectTutorial />
+      {/* <LayoutEffectTutorial /> */}
+      <ImperativeHandle />
     </div>
   );
 }
