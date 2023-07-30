@@ -6,6 +6,7 @@ import StateTutorial from './components/StateTutorial';
 import ReducerTutorial from './components/ReducerTutorial';
 import EffectTutorial from './components/EffectTutorial';
 import RefTutorial from './components/RefTutorial';
+import LayoutEffectTutorial from './components/LayoutEffectTutorial';
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       {/* <StateTutorial /> */}
       {/* <ReducerTutorial /> */}
       {/* <EffectTutorial /> */}
-      <RefTutorial />
+      {/* <RefTutorial /> */}
+      <LayoutEffectTutorial />
     </div>
   );
 }
