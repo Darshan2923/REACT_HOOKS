@@ -1,0 +1,18 @@
+Last some hooks are:
+
+1.useMemo
+2.useCallback
+
+//This are pretty advanced hooks in react
+and they are of little use when it comes to 
+less complex codebase which generally
+beginners and intermediate professionals
+deal with
+
+//Theyr'e generally used on large
+algorithmic codebases to for state
+management
+
+//To learn more on this hooks, visit:
+https://react.dev/reference/react/useMemo
+https://react.dev/reference/react/useCallback
